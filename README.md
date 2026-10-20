@@ -15,6 +15,6 @@ Obriu index.html o executeu `python -m http.server 4173` des d'aquesta carpeta i
 
 Els vídeos s'enllacen a YouTube. El reproductor de l'entrevista només es carrega després de prémer el botó. L'editor de textos i els esborranys del navegador queden fora d'aquesta versió.
 
-## Estat de revisió
+## Publicació
 
-Versió preparada per revisar en una branca, sense canvis de domini ni redireccions. Es conserva `noindex, nofollow` mentre és un esborrany. Abans de la publicació definitiva, revisar aquesta etiqueta i confirmar contacte públic i domini.
+Versió aprovada per substituir la landing anterior a GitHub Pages. Sense canvis de domini ni redireccions. L'etiqueta noindex del borrador s'ha retirat. El contacte públic i el domini personal es poden configurar en una revisió posterior.
