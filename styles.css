@@ -13,3 +13,4 @@
 .shadow-context{font-size:11px;line-height:1.7;color:var(--muted);margin:26px 0 0}
 h1{line-height:1.12}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+.about{padding-block:64px 20px}.about .section-heading{align-items:end;margin-bottom:32px}.about h2{font-size:clamp(38px,5vw,64px)}.about-portrait{margin:0}.about-portrait img{display:block;width:100%;height:auto}@media(max-width:600px){.about{padding-block:42px 10px}.about .section-heading{align-items:start;flex-direction:column;gap:16px;margin-bottom:24px}}
